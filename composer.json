@@ -1,0 +1,18 @@
+{
+  "name": "danishigor/design-patterns-php",
+  "type": "project",
+  "description": "Library of design patterns.",
+  "keywords": [
+    "design patterns",
+    "patterns"
+  ],
+  "license": "MIT",
+  "require": {
+    "php" : ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "DanishIgor\\DesignPatternsPHP\\": "src/"
+    }
+  }
+}
